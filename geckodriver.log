@@ -1,0 +1,315 @@
+1683384766419	geckodriver	INFO	Listening on 127.0.0.1:54574
+1683384769482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofile6Yxwtz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683384770114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683384770122	Marionette	INFO	Listening on port 54584
+Read port: 54584
+WebDriver BiDi listening on ws://127.0.0.1:54575
+1683384770337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofile6Yxwtz\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54575/devtools/browser/b005e212-45fc-4287-b54c-bda50577820e
+JavaScript warning: https://webresource.tripcdn.com/resaresenglish/risk/ubtrms/d.min.d7a9ee87.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1683389287691	Marionette	INFO	Stopped listening on port 54584
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofiler6R60x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683384987334	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683384987340	Marionette	INFO	Listening on port 54708
+Read port: 54708
+WebDriver BiDi listening on ws://127.0.0.1:54699
+1683384987489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofiler6R60x\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54699/devtools/browser/52c43288-f813-4ed8-8fdb-5c6522d00fe7
+JavaScript warning: https://webresource.tripcdn.com/resaresenglish/risk/ubtrms/d.min.d7a9ee87.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683385801748	Marionette	INFO	Stopped listening on port 54708
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofile1sSoXn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683385213264	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683385213269	Marionette	INFO	Listening on port 54829
+Read port: 54829
+WebDriver BiDi listening on ws://127.0.0.1:54820
+1683385213419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofile1sSoXn\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54820/devtools/browser/1b801a36-10de-4029-9220-3f45bd25256e
+JavaScript warning: https://webresource.tripcdn.com/resaresenglish/risk/ubtrms/d.min.d7a9ee87.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683385802510	Marionette	INFO	Stopped listening on port 54829
+Dynamically enable window occlusion 1
+[Parent 22124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofilem5YNtC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683385236950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683385236955	Marionette	INFO	Listening on port 54924
+Read port: 54924
+WebDriver BiDi listening on ws://127.0.0.1:54915
+1683385237102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilem5YNtC\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54915/devtools/browser/74d4161c-a717-4de3-a5ee-f8a8a3968cc5
+JavaScript warning: https://webresource.tripcdn.com/resaresenglish/risk/ubtrms/d.min.d7a9ee87.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683385803217	Marionette	INFO	Stopped listening on port 54924
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofileT9LZhk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683385739017	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683385739023	Marionette	INFO	Listening on port 55121
+Read port: 55121
+WebDriver BiDi listening on ws://127.0.0.1:55112
+1683385739171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofileT9LZhk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55112/devtools/browser/c0f80078-3ea9-414f-aad4-553dd5656445
+JavaScript warning: https://webresource.tripcdn.com/resaresenglish/risk/ubtrms/d.min.d7a9ee87.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683385804120	Marionette	INFO	Stopped listening on port 55121
+Dynamically enable window occlusion 1
+1683386100973	geckodriver	INFO	Listening on 127.0.0.1:55277
+1683386104011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofileAqm58B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683386104314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683386104318	Marionette	INFO	Listening on port 55287
+Read port: 55287
+WebDriver BiDi listening on ws://127.0.0.1:55278
+1683386104464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofileAqm58B\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55278/devtools/browser/a436f017-2e67-4024-a150-83d51f0c3710
+JavaScript warning: https://webresource.tripcdn.com/resaresenglish/risk/ubtrms/d.min.d7a9ee87.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683389288367	Marionette	INFO	Stopped listening on port 55287
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilenOAnNR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683387006307	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683387006311	Marionette	INFO	Listening on port 55581
+Read port: 55581
+WebDriver BiDi listening on ws://127.0.0.1:55572
+1683387006475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilenOAnNR\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55572/devtools/browser/8f904bfd-48f8-4e77-a230-cc37ed9a45da
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HFuUK9PmT_Lq_5RJk8JSvLsboBRSyXeRIfQWcOegxFw.js line 2 > eval line 6864 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+1683390659306	geckodriver	INFO	Listening on 127.0.0.1:57945
+1683390662320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilexFfOAq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683390662773	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683390662778	Marionette	INFO	Listening on port 57956
+Read port: 57956
+WebDriver BiDi listening on ws://127.0.0.1:57946
+1683390662961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilexFfOAq\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57946/devtools/browser/85b11023-1c24-4acb-b7eb-fe6318123b6b
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HFuUK9PmT_Lq_5RJk8JSvLsboBRSyXeRIfQWcOegxFw.js line 2 > eval line 4914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/graphql.4bb331c520749c23e590.js, line 1: Error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript error: https://www.expedia.com/things-to-do/budapest-danube-river-sightseeing-night-cruise-by-legenda-city-cruises.a846150.activity-details?endDate=2023-05-21&location=Budapest%20%28and%20vicinity%29%2C%20Hungary&rid=179994&selectedId=&sort=RECOMMENDED&startDate=2023-05-20&swp=on, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://expedia-api.arkoselabs.com/cdn/fc/js/606dcf30627935a81cf1d2bbb0a948f369f01e1a/standard/funcaptcha_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.error: "Unable to find target with innerWindowId:6442450954"
+JavaScript error: https://www.expedia.com/things-to-do/budapest-danube-river-sightseeing-night-cruise-by-legenda-city-cruises.a846150.activity-details?endDate=2023-05-21&location=Budapest%20%28and%20vicinity%29%2C%20Hungary&rid=179994&selectedId=&sort=RECOMMENDED&startDate=2023-05-20&swp=on, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://expedia-api.arkoselabs.com/cdn/fc/js/606dcf30627935a81cf1d2bbb0a948f369f01e1a/standard/funcaptcha_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HFuUK9PmT_Lq_5RJk8JSvLsboBRSyXeRIfQWcOegxFw.js line 2 > eval line 7227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683700681236	geckodriver	INFO	Listening on 127.0.0.1:56101
+1683700684289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilesf6OE1"
+1683700696553	geckodriver	INFO	Listening on 127.0.0.1:56142
+1683700699602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofilenF5ICu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683700699911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683700699916	Marionette	INFO	Listening on port 56152
+Read port: 56152
+WebDriver BiDi listening on ws://127.0.0.1:56143
+1683700700062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56143/devtools/browser/e83e329f-dd75-46ff-a853-8f9bc0b495cd
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ikSMSteO3o14Tpi7JK6I_pos91N-O9tJx_W-F7IaH6U.js line 2 > eval line 7562 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/graphql.4bb331c520749c23e590.js, line 1: Error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/graphql.4bb331c520749c23e590.js, line 1: Error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/graphql.4bb331c520749c23e590.js, line 1: Error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/graphql.4bb331c520749c23e590.js, line 1: Error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.a96fb868d9c6018806b4.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.com/things-to-do/budapest-danube-river-sightseeing-night-cruise-by-legenda-city-cruises.a846150.activity-details?endDate=2023-05-21&location=Budapest%20%28and%20vicinity%29%2C%20Hungary&nestedReviewCommentsDialog=ActivityReviewCommentsDialog-reviewLazyContent&rid=179994&selectedId=&sort=RECOMMENDED&startDate=2023-05-20&swp=on, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+JavaScript warning: https://expedia-api.arkoselabs.com/cdn/fc/js/606dcf30627935a81cf1d2bbb0a948f369f01e1a/standard/funcaptcha_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ikSMSteO3o14Tpi7JK6I_pos91N-O9tJx_W-F7IaH6U.js line 2 > eval line 6642 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684398247181	geckodriver	INFO	Listening on 127.0.0.1:55577
+1684398250237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\preda\\AppData\\Local\\Temp\\rust_mozprofileNsOK3f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684398250675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684398250681	Marionette	INFO	Listening on port 55587
+Read port: 55587
+WebDriver BiDi listening on ws://127.0.0.1:55578
+1684398250831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55578/devtools/browser/76bc6ddb-ad6b-46b9-8be7-ca4ecd9d38b3
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s8ditO9N4rSA5jD8b4OXvNFpy85WvJIvPV3ceacow88.js line 2 > eval line 7356 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 3188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.expedia.com/things-to-do/budapest-danube-river-sightseeing-night-cruise-by-legenda-city-cruises.a846150.activity-details?endDate=2023-05-21&location=Budapest%20%28and%20vicinity%29%2C%20Hungary&rid=179994&selectedId=&sort=RECOMMENDED&startDate=2023-05-20&swp=on, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+JavaScript warning: https://expedia-api.arkoselabs.com/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/funcaptcha_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://www.expedia.com/things-to-do/budapest-danube-river-sightseeing-night-cruise-by-legenda-city-cruises.a846150.activity-details?endDate=2023-05-21&location=Budapest%20%28and%20vicinity%29%2C%20Hungary&rid=179994&selectedId=&sort=RECOMMENDED&startDate=2023-05-20&swp=on, line 5: Error: ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead: 51447
+JavaScript warning: https://expedia-api.arkoselabs.com/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/funcaptcha_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 6324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s8ditO9N4rSA5jD8b4OXvNFpy85WvJIvPV3ceacow88.js line 2 > eval line 7021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 4075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 5100 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s8ditO9N4rSA5jD8b4OXvNFpy85WvJIvPV3ceacow88.js line 2 > eval line 5952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s8ditO9N4rSA5jD8b4OXvNFpy85WvJIvPV3ceacow88.js line 2 > eval line 5751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s8ditO9N4rSA5jD8b4OXvNFpy85WvJIvPV3ceacow88.js line 2 > eval line 4035 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 6767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20168, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684400048804	Marionette	INFO	Stopped listening on port 55587
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError [Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20400, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684400050760	Marionette	INFO	Stopped listening on port 55806
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+7ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/lx-nimble/pap.3397ad89b3d6866e0490.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oKPwcP-deonJmdk-VuVCerVM0HYOOiEgue33yvnOnyk.js line 2 > eval line 7276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s8ditO9N4rSA5jD8b4OXvNFpy85WvJIvPV3ceacow88.js line 2 > eval line 1350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 25120, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684400048129	Marionette	INFO	Stopped listening on port 55932
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
